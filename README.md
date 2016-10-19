@@ -2,6 +2,9 @@
 ##ส่งการบ้านเรื่อง Use case diagram
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuIh9BCb9LIZEJCzJoCpZ2YrEBLBGjLFGoCbF1_8rKGNoIqiqkM1I2dfwG67Nl1AW0f2glCJSLEoo0Od5nUNvHIdOPVrmwWikXHcAPWv4aMDUQZbGj3WrkRGeiwHIeR0qjRWaCn_eQ2ukXzIy5A3l0000)
 ![](http://www.plantuml.com/plantuml/img/ZO-n2iCm34HtVuN6PkWFU2Zva-3ASYgYo639G_--Xb8m54hNUtVStMgUclTJWhCBGQETX-HS5UnfJcU8vZsJUeJh3Ivl0xKbnCAQ53d9DXAbV3ZMbk7E8gpxyfN-HV51UDJkWBKteu6dENF9dyPfx4gQnyiN)
+![](http://www.plantuml.com/plantuml/img/XP4n3eCm34NtdC9Z6S81CY0Eq4i4uhOHIOoCKSNj6qeh25BLpVhV_i-osqaiono34Xf123eIeGZEC_RYAIdn4X22xzZo0jCo2KPb9faT9Z7QH8mTib56qFQFNEsI-bRwqX4pFNCw3TL1PfIPqqTMHPSsrpVJssHAfsxWaadzuDCTjgXr-2o1XYBYo2gjqgkRFMf4zkHWewEhCiM6VWvsFGtSVC9_xR-iqtOj9fU_y080)
+![](http://www.plantuml.com/plantuml/img/LOx12i8m44Jl-nLph8Vw0Jr8VoLirZPqavHa0uhuxwQ856yplCSmSpLNh4KbbRl1CafOLeCFHTX2JaHq99SM5V0glELcU170hLgEKZ2E67xaqi5PSBrXsDqpIkfbGaYipSlXhABxbv_s17cO95__H_e-gvIDtZHtsiz-0000)
+![](http://www.plantuml.com/plantuml/img/ZP5B2i90343tSueiTQ574E_W0KgSYUtG-P6aGX7lRgjOh6XrcUJbaSzU55cx64oWau9cO5yt2iupMVKv6MbzAiWOeQ1jiQQ3ze5WB1kqcXbi9veZyJD4QVmK2V6PkB8vbaw7xDY7gHuCGY5KqejI1BWOc3omsS3gsFM0oTqfg7Dsidv72lQHajunsv1jlt7i1qg2BsDf9OHicmSBZXHza3LiTyl2nr9BexqGVuhcWxrTwfVe8puJNisUaXj-UmC0)
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
